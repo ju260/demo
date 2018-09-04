@@ -22,18 +22,6 @@
             "title": "Titre offre lorem ipsum in dolor oremipsum in dolor orem",
             "desc": "Etiam sed erat id nisi consectetur vulputate quis vel ante. Aliquam consequat leo interdum luctus placerat. Curabitur vel purus at elit ultrices rutrum quis quis leo liquam consequat leom quis quis leo liquam conseelit ultrices rutrum quis quis leo liquam consequat leom quis.",
             "url": "http://google.com"
-        },
-        {
-            "service": 1,
-            "contrat": 1,
-            "experience": 2,
-            "date": "10 juin 2017",
-            "categorie": "cat 1",
-            "id": 3,
-            "body": "some comment",
-            "title": "Titre offre lorem ipsum in dolor oremipsum in dolor orem",
-            "desc": "Etiam sed erat id nisi consectetur vulputate quis vel ante. Aliquam consequat leo interdum luctus placerat. Curabitur vel purus at elit ultrices rutrum quis quis leo liquam consequat leom quis quis leo liquam conseelit ultrices rutrum quis quis leo liquam consequat leom quis.",
-            "url": "http://google.com"
         }
     ]
 }
