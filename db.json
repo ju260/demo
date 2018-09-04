@@ -1,8 +1,8 @@
 {
     "posts": [{
-            "service": 1,
-            "contrat": 1,
-            "experience": 2,
+            "service": "s1",
+            "contrat": "c1",
+            "experience": "e2",
             "date": "10 juin 2017",
             "categorie": "cat 1",
             "id": 1,
@@ -12,9 +12,9 @@
             "url": "http://google.com"
         },
         {
-            "service": 1,
-            "contrat": 1,
-            "experience": 2,
+            "service": "s2",
+            "contrat": "c1",
+            "experience": "e2",
             "date": "10 juin 2017",
             "categorie": "cat 1",
             "id": 2,
@@ -24,9 +24,9 @@
             "url": "http://google.com"
         },
         {
-            "service": 1,
-            "contrat": 1,
-            "experience": 2,
+            "service": "s3",
+            "contrat": "c2",
+            "experience": "e1",
             "date": "10 juin 2017",
             "categorie": "cat 1",
             "id": 3,
@@ -36,9 +36,9 @@
             "url": "http://google.com"
         },
         {
-            "service": 1,
-            "contrat": 1,
-            "experience": 2,
+            "service": "s1",
+            "contrat": "c1",
+            "experience": "e3",
             "date": "10 juin 2017",
             "categorie": "cat 1",
             "id": 4,
